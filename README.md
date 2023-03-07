@@ -23,4 +23,4 @@ You can use this on Creative servers, or on some realistic based server
 4. And have fun!
 
 ## License
-ForestChannelAPI is licensed under the permissive MIT license. Please see [`LICENSE.txt`](https://github.com/Fly_Ultra/TheCraftBlock/blob/master/LICENSE.txt) for more information.
+TheCraftBlock is licensed under the permissive MIT license. Please see [`LICENSE.txt`](https://github.com/Fly_Ultra/TheCraftBlock/blob/master/LICENSE.txt) for more information.
